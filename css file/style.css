@@ -1,0 +1,265 @@
+
+ /* font-family: 'Poppins', sans-serif; */
+
+ body{
+    font-family: 'Poppins', sans-serif;
+ }
+
+.nav-link {
+    color: rgb(0 0 0);  
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link:hover{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(86 84 140);;
+}
+
+.hero_section {
+    font-family: 'Poppins', sans-serif;
+ background-color: #f0fff0;
+ min-height: 100vh;
+}
+
+
+.banner_content h5{
+    font-family: 'Poppins', sans-serif;
+    color: #FD511A;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+.banner_content h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    line-height: 70px;
+    font-size: 48px;
+    color: #000;
+}
+
+.banner_content h1 span{
+    font-family: 'Poppins', sans-serif;
+   color: #21b573;
+}
+
+
+
+.banner_content p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+    color: #000;
+}
+
+.btn-custom{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    border: 1px solid #21b573;
+    padding: 10px 20px;
+    background-color: #21b573;
+    border-radius: 50px;
+}
+
+.btn-custom:hover{
+    font-family: 'Poppins', sans-serif;
+    background-color: #187d50;
+    color: white;
+}
+
+.btn-sing_in{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    border: 1px solid #21b573;
+    padding: 8px 17px;
+    line-height: 20px;
+    background-color: #21b573;
+    border-radius: 50px;
+    align-items: center;
+}
+
+.btn-sing_in:hover{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #187d50;
+}
+
+.feture_back{
+    font-family: 'Poppins', sans-serif;
+text-align: center;
+width: 90%;
+padding: 30px 0;
+background-color: #f8fffb;
+
+}
+
+.feture_back img {
+    font-family: 'Poppins', sans-serif;
+   width: 55px;
+   margin-bottom: 20px;
+   height: 70px;
+   
+}
+
+.feture_back h1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #413960;
+}
+
+.feture_back p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #585859;
+}
+
+.feture_back:hover{
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+
+.headlins{
+    font-family: 'Poppins', sans-serif;
+   padding: 40px 0;
+   text-align: center;
+}
+
+.headlins h1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+}
+
+.courses_item{
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    padding: 20px 20px;
+    width: 350px;
+height: 443px;
+left: 535px;
+top: 1102px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;    
+}
+
+.courses_item image{
+    width: 331px;
+    height: 234px;
+    left: 154px;
+    top: 1126px;
+}
+
+.courses_item h2 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+
+
+.courses_item h5{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+
+.btn_course{
+    font-family: 'Poppins', sans-serif;
+    width: 137px;
+    height: 35px;
+    line-height: 19px;
+    color: white;
+    background: #21B573;
+    border-radius: 33px;
+    margin: 20px 0;
+}
+
+.btn_course:hover{
+    background-color: #187d50;
+    color: #fff;
+}
+
+.courses_item ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+
+.courses_item ul li{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.courses_item ul li i{
+    margin-right: 8px;
+}
+
+
+.bayar {
+   margin: auto;
+   padding-top: 20px;
+   padding-bottom: 80px;
+}
+
+.bayar_photo{
+  text-align: center;
+}
+
+.bayar_photo img{
+    width: 130px;
+}
+
+.bayar_ditals p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+}
+
+footer{
+   background-color: 
+   #282531;
+   padding-top: 50px;
+   padding-bottom: 90px;
+}
+
+footer p{
+  color: white;
+}
+
+.list_item ul {
+   list-style: none;
+}
+
+.list_item ul li{
+color: white;
+}
